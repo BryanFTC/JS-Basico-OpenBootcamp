@@ -1,0 +1,13 @@
+{
+  "name": "elercicio1",
+  "version": "1.0.0",
+  "description": "primer ejercicio del curso de js basico",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BryanTicona",
+  "license": "ISC"
+}
